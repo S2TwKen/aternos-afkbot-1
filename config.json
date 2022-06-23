@@ -1,7 +1,7 @@
 {
 	"host": "SimpleCityv9Bi.aternos.me",
 	"port": "14068",
-	"username": "afkbot1",
+	"username": "VinhMC",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
 		"false : displays only necessary logs."
